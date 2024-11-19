@@ -22,10 +22,10 @@ def remove_duplicates(data):
     data['motivational_quotes'] = unique_data
     return data
 
-data = read_json_file('quotes.json')
+data = read_json_file('db.json')
 
 cleaned_data = remove_duplicates(data)
 
 write_json_file('quotes.json', cleaned_data)
 
-print("Duplicates removed. Updated data saved to 'updated_quotes.json'.")
+print("Duplicates removed. Updated data saved to 'quotes.json'.")
