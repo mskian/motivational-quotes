@@ -1,0 +1,1156 @@
+{
+    "motivational_quotes": [
+        {
+            "id": 1,
+            "quote": "Every step forward, no matter how small, is progress."
+        },
+        {
+            "id": 2,
+            "quote": "You have the power to write your own success story."
+        },
+        {
+            "id": 3,
+            "quote": "Believe in your journey; the destination will follow."
+        },
+        {
+            "id": 4,
+            "quote": "Hard work turns dreams into reality."
+        },
+        {
+            "id": 5,
+            "quote": "The only limit is the one you set for yourself."
+        },
+        {
+            "id": 6,
+            "quote": "Turn every setback into a powerful comeback."
+        },
+        {
+            "id": 7,
+            "quote": "Success favors the brave who dare to try."
+        },
+        {
+            "id": 8,
+            "quote": "Consistency beats talent when talent stops trying."
+        },
+        {
+            "id": 9,
+            "quote": "Wake up each day and choose growth over comfort."
+        },
+        {
+            "id": 10,
+            "quote": "Your energy introduces you before your words do."
+        },
+        {
+            "id": 11,
+            "quote": "A focused mind achieves impossible dreams."
+        },
+        {
+            "id": 12,
+            "quote": "Happiness blooms where gratitude is planted."
+        },
+        {
+            "id": 13,
+            "quote": "One small habit today can change your future."
+        },
+        {
+            "id": 14,
+            "quote": "Your failures are the stepping stones to greatness."
+        },
+        {
+            "id": 15,
+            "quote": "Confidence is built through action, not hesitation."
+        },
+        {
+            "id": 16,
+            "quote": "Chase progress, not perfection."
+        },
+        {
+            "id": 17,
+            "quote": "Discipline is the bridge between goals and success."
+        },
+        {
+            "id": 18,
+            "quote": "Your passion is the compass to your purpose."
+        },
+        {
+            "id": 19,
+            "quote": "The hardest climb yields the most beautiful view."
+        },
+        {
+            "id": 20,
+            "quote": "Turn fear into fuel and keep moving forward."
+        },
+        {
+            "id": 21,
+            "quote": "A positive mindset is the key to unlocking potential."
+        },
+        {
+            "id": 22,
+            "quote": "Even the smallest effort can ignite a big change."
+        },
+        {
+            "id": 23,
+            "quote": "Your worth is not defined by your worst moment."
+        },
+        {
+            "id": 24,
+            "quote": "Set your intentions high, and let your actions rise higher."
+        },
+        {
+            "id": 25,
+            "quote": "Every day is a new opportunity to grow stronger."
+        },
+        {
+            "id": 26,
+            "quote": "Doubt kills more dreams than failure ever could."
+        },
+        {
+            "id": 27,
+            "quote": "Your persistence today will be your success tomorrow."
+        },
+        {
+            "id": 28,
+            "quote": "Start where you are, use what you have, and do what you can."
+        },
+        {
+            "id": 29,
+            "quote": "Growth happens outside your comfort zone."
+        },
+        {
+            "id": 30,
+            "quote": "Let your passion be louder than your fear."
+        },
+        {
+            "id": 31,
+            "quote": "Each new day is a fresh chance to do better."
+        },
+        {
+            "id": 32,
+            "quote": "Your potential is limitless; believe in yourself."
+        },
+        {
+            "id": 33,
+            "quote": "Success is built on the foundation of small wins."
+        },
+        {
+            "id": 34,
+            "quote": "Dream big, work hard, and make it happen."
+        },
+        {
+            "id": 35,
+            "quote": "Opportunities are created by those who seek them."
+        },
+        {
+            "id": 36,
+            "quote": "The courage to begin is the first step to victory."
+        },
+        {
+            "id": 37,
+            "quote": "Strength comes from overcoming what you thought you couldn’t."
+        },
+        {
+            "id": 38,
+            "quote": "Greatness is a series of small actions done well."
+        },
+        {
+            "id": 39,
+            "quote": "Your attitude determines your altitude."
+        },
+        {
+            "id": 40,
+            "quote": "Turn obstacles into opportunities for growth."
+        },
+        {
+            "id": 41,
+            "quote": "Be the energy you want to attract."
+        },
+        {
+            "id": 42,
+            "quote": "Every experience is a lesson; every loss is a gain."
+        },
+        {
+            "id": 43,
+            "quote": "Focus on the solution, not the problem."
+        },
+        {
+            "id": 44,
+            "quote": "Small efforts, repeated daily, lead to massive results."
+        },
+        {
+            "id": 45,
+            "quote": "You can’t change the past, but you can shape the future."
+        },
+        {
+            "id": 46,
+            "quote": "Be a warrior, not a worrier."
+        },
+        {
+            "id": 47,
+            "quote": "Success is the result of preparation meeting opportunity."
+        },
+        {
+            "id": 48,
+            "quote": "Celebrate progress, no matter how minor it seems."
+        },
+        {
+            "id": 49,
+            "quote": "The key to success is staying consistent."
+        },
+        {
+            "id": 50,
+            "quote": "Don’t wait for opportunity; create it."
+        },
+        {
+            "id": 51,
+            "quote": "Your strength lies in your ability to keep going."
+        },
+        {
+            "id": 52,
+            "quote": "Great things never come from staying in your comfort zone."
+        },
+        {
+            "id": 53,
+            "quote": "Push yourself, because no one else will do it for you."
+        },
+        {
+            "id": 54,
+            "quote": "Dream it. Believe it. Build it."
+        },
+        {
+            "id": 55,
+            "quote": "You are capable of more than you imagine."
+        },
+        {
+            "id": 56,
+            "quote": "Make today count; tomorrow is not guaranteed."
+        },
+        {
+            "id": 57,
+            "quote": "Success is the sum of small efforts repeated daily."
+        },
+        {
+            "id": 58,
+            "quote": "You are stronger than your challenges."
+        },
+        {
+            "id": 59,
+            "quote": "Focus on progress, not perfection."
+        },
+        {
+            "id": 60,
+            "quote": "Every great journey starts with a single step."
+        },
+        {
+            "id": 61,
+            "quote": "Believe in the process, even when it's hard."
+        },
+        {
+            "id": 62,
+            "quote": "Take pride in how far you've come, and have faith in how far you can go."
+        },
+        {
+            "id": 63,
+            "quote": "Your future is created by what you do today, not tomorrow."
+        },
+        {
+            "id": 64,
+            "quote": "Don't stop until you're proud."
+        },
+        {
+            "id": 65,
+            "quote": "Growth is painful, but nothing is as painful as staying stuck somewhere you don't belong."
+        },
+        {
+            "id": 66,
+            "quote": "Sometimes the hardest part is just starting."
+        },
+        {
+            "id": 67,
+            "quote": "The difference between who you are and who you want to be is what you do."
+        },
+        {
+            "id": 68,
+            "quote": "Strive for progress, not perfection."
+        },
+        {
+            "id": 69,
+            "quote": "Stay focused and never give up."
+        },
+        {
+            "id": 70,
+            "quote": "Your journey begins with your decision to take the first step."
+        },
+        {
+            "id": 71,
+            "quote": "Embrace the challenge and let it shape you."
+        },
+        {
+            "id": 73,
+            "quote": "Success is the best revenge for those who doubted you."
+        },
+        {
+            "id": 74,
+            "quote": "Make it happen. Shock everyone."
+        },
+        {
+            "id": 75,
+            "quote": "Believe in yourself, even when no one else does."
+        },
+        {
+            "id": 76,
+            "quote": "Your effort today will define your success tomorrow."
+        },
+        {
+            "id": 77,
+            "quote": "Success is the sum of small efforts repeated day in and day out."
+        },
+        {
+            "id": 78,
+            "quote": "The only way to achieve the impossible is to believe it is possible."
+        },
+        {
+            "id": 79,
+            "quote": "Every challenge you face is an opportunity to grow."
+        },
+        {
+            "id": 80,
+            "quote": "Stay hungry, stay foolish, and keep moving forward."
+        },
+        {
+            "id": 81,
+            "quote": "You are what you believe yourself to be."
+        },
+        {
+            "id": 82,
+            "quote": "Dreams don’t work unless you do."
+        },
+        {
+            "id": 83,
+            "quote": "Don't limit your challenges, challenge your limits."
+        },
+        {
+            "id": 84,
+            "quote": "Success is not the key to happiness. Happiness is the key to success."
+        },
+        {
+            "id": 85,
+            "quote": "The best time to plant a tree was 20 years ago. The second-best time is now."
+        },
+        {
+            "id": 86,
+            "quote": "Your passion is waiting for your courage to catch up."
+        },
+        {
+            "id": 87,
+            "quote": "Doubt kills more dreams than failure ever will."
+        },
+        {
+            "id": 88,
+            "quote": "Believe in the process, even when it’s difficult."
+        },
+        {
+            "id": 89,
+            "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+        },
+        {
+            "id": 90,
+            "quote": "Hardships often prepare ordinary people for an extraordinary destiny."
+        },
+        {
+            "id": 91,
+            "quote": "You don’t have to be great to start, but you have to start to be great."
+        },
+        {
+            "id": 93,
+            "quote": "Success starts with self-discipline."
+        },
+        {
+            "id": 94,
+            "quote": "The secret to getting ahead is getting started."
+        },
+        {
+            "id": 95,
+            "quote": "Keep pushing, you’re closer than you think."
+        },
+        {
+            "id": 96,
+            "quote": "Every day is an opportunity to make progress."
+        },
+        {
+            "id": 97,
+            "quote": "Action is the foundational key to all success."
+        },
+        {
+            "id": 98,
+            "quote": "The only limit to our realization of tomorrow is our doubts of today."
+        },
+        {
+            "id": 99,
+            "quote": "Success is what happens after you’ve survived all your mistakes."
+        },
+        {
+            "id": 100,
+            "quote": "Don’t be afraid to fail. Be afraid not to try."
+        },
+        {
+            "id": 101,
+            "quote": "The road to success is always under construction."
+        },
+        {
+            "id": 102,
+            "quote": "The harder you work for something, the greater you’ll feel when you achieve it."
+        },
+        {
+            "id": 103,
+            "quote": "The way to get started is to quit talking and begin doing."
+        },
+        {
+            "id": 104,
+            "quote": "Success comes from putting your heart and soul into everything you do."
+        },
+        {
+            "id": 105,
+            "quote": "Keep believing in yourself, and success will follow."
+        },
+        {
+            "id": 106,
+            "quote": "Great things take time, be patient."
+        },
+        {
+            "id": 107,
+            "quote": "Success is not the absence of failure; it’s the persistence through failure."
+        },
+        {
+            "id": 108,
+            "quote": "The only way to achieve your dreams is to believe in them and work relentlessly."
+        },
+        {
+            "id": 109,
+            "quote": "The future belongs to those who believe in the beauty of their dreams."
+        },
+        {
+            "id": 110,
+            "quote": "Success isn’t just about what you accomplish in your life, it’s about what you inspire others to do."
+        },
+        {
+            "id": 111,
+            "quote": "Push through the tough days because success will be your reward."
+        },
+        {
+            "id": 112,
+            "quote": "The only way to do great work is to love what you do."
+        },
+        {
+            "id": 113,
+            "quote": "Believe in yourself and watch the world believe in you."
+        },
+        {
+            "id": 114,
+            "quote": "You don’t need to be perfect; you just need to be consistent."
+        },
+        {
+            "id": 115,
+            "quote": "Your potential is endless, keep striving for it."
+        },
+        {
+            "id": 116,
+            "quote": "There are no limits to what you can achieve, only the ones you place on yourself."
+        },
+        {
+            "id": 117,
+            "quote": "Every day is a chance to get closer to your dreams."
+        },
+        {
+            "id": 118,
+            "quote": "Perseverance is the key to unlocking success."
+        },
+        {
+            "id": 119,
+            "quote": "Stay determined, your breakthrough is coming."
+        },
+        {
+            "id": 120,
+            "quote": "Success is the result of preparation, hard work, and learning from failure."
+        },
+        {
+            "id": 121,
+            "quote": "You are the author of your own story."
+        },
+        {
+            "id": 122,
+            "quote": "Failure is simply the opportunity to begin again, this time more intelligently."
+        },
+        {
+            "id": 123,
+            "quote": "Make each day count as if it's the last."
+        },
+        {
+            "id": 124,
+            "quote": "The only thing standing between you and your goal is the story you keep telling yourself."
+        },
+        {
+            "id": 125,
+            "quote": "Great things take time, so be patient with yourself."
+        },
+        {
+            "id": 126,
+            "quote": "Your time is now. Don't wait for tomorrow."
+        },
+        {
+            "id": 127,
+            "quote": "Everything you need is already inside you."
+        },
+        {
+            "id": 128,
+            "quote": "When you feel like quitting, think about why you started."
+        },
+        {
+            "id": 129,
+            "quote": "Do what you love, and you’ll never work a day in your life."
+        },
+        {
+            "id": 130,
+            "quote": "Believe you can, and you're halfway there."
+        },
+        {
+            "id": 131,
+            "quote": "Keep going. You're getting closer every day."
+        },
+        {
+            "id": 132,
+            "quote": "Believe in yourself, and you’ll be unstoppable."
+        },
+        {
+            "id": 133,
+            "quote": "The best way to predict your future is to create it."
+        },
+        {
+            "id": 134,
+            "quote": "Success is not for the chosen few; it’s for those who choose to work for it."
+        },
+        {
+            "id": 135,
+            "quote": "You are capable of achieving everything you want."
+        },
+        {
+            "id": 136,
+            "quote": "Take pride in how far you've come."
+        },
+        {
+            "id": 137,
+            "quote": "Do something today that your future self will thank you for."
+        },
+        {
+            "id": 138,
+            "quote": "Stay focused on your goals and take one step at a time."
+        },
+        {
+            "id": 139,
+            "quote": "No dream is too big if you're willing to work for it."
+        },
+        {
+            "id": 140,
+            "quote": "Life begins at the end of your comfort zone."
+        },
+        {
+            "id": 141,
+            "quote": "Success is earned, not given."
+        },
+        {
+            "id": 142,
+            "quote": "You have what it takes to succeed."
+        },
+        {
+            "id": 143,
+            "quote": "The only way to achieve great things is to take risks."
+        },
+        {
+            "id": 144,
+            "quote": "If you can dream it, you can do it."
+        },
+        {
+            "id": 145,
+            "quote": "Success comes from the courage to begin."
+        },
+        {
+            "id": 146,
+            "quote": "Focus on the progress, not the problems."
+        },
+        {
+            "id": 147,
+            "quote": "Challenges are what make life interesting; overcoming them makes life meaningful."
+        },
+        {
+            "id": 148,
+            "quote": "Success is not just what you achieve; it’s who you become."
+        },
+        {
+            "id": 149,
+            "quote": "Success is the result of being committed to growth."
+        },
+        {
+            "id": 150,
+            "quote": "Keep working, keep believing, keep achieving."
+        },
+        {
+            "id": 151,
+            "quote": "Your biggest asset is your ability to stay motivated."
+        },
+        {
+            "id": 152,
+            "quote": "Keep pushing, your dreams are waiting."
+        },
+        {
+            "id": 153,
+            "quote": "The only time success comes before work is in the dictionary."
+        },
+        {
+            "id": 154,
+            "quote": "Don’t let fear stop you from doing what you love."
+        },
+        {
+            "id": 155,
+            "quote": "Stay positive and work hard."
+        },
+        {
+            "id": 156,
+            "quote": "Success doesn’t come to you, you go to it."
+        },
+        {
+            "id": 157,
+            "quote": "Your hard work will eventually pay off."
+        },
+        {
+            "id": 158,
+            "quote": "Great things don’t come from comfort zones."
+        },
+        {
+            "id": 159,
+            "quote": "Every moment is a fresh beginning."
+        },
+        {
+            "id": 160,
+            "quote": "Success begins the moment you believe you can."
+        },
+        {
+            "id": 161,
+            "quote": "Don’t just wait for opportunity, create it."
+        },
+        {
+            "id": 162,
+            "quote": "There’s no limit to what you can achieve."
+        },
+        {
+            "id": 163,
+            "quote": "It’s never too late to start working on your dreams."
+        },
+        {
+            "id": 164,
+            "quote": "Don’t wait for the perfect moment. Take the moment and make it perfect."
+        },
+        {
+            "id": 165,
+            "quote": "The more you work for something, the greater you feel when you achieve it."
+        },
+        {
+            "id": 166,
+            "quote": "The difference between a successful person and others is how long they spend time feeling sorry for themselves."
+        },
+        {
+            "id": 168,
+            "quote": "Act as if what you do makes a difference. It does."
+        },
+        {
+            "id": 169,
+            "quote": "Perseverance is the key to success."
+        },
+        {
+            "id": 170,
+            "quote": "Success is achieved by those who never give up."
+        },
+        {
+            "id": 171,
+            "quote": "Your potential is endless. Go and explore it."
+        },
+        {
+            "id": 172,
+            "quote": "Hardships often prepare ordinary people for extraordinary destinies."
+        },
+        {
+            "id": 173,
+            "quote": "Stay focused, work hard, and the results will come."
+        },
+        {
+            "id": 174,
+            "quote": "Success is the byproduct of persistence."
+        },
+        {
+            "id": 175,
+            "quote": "The harder you work, the luckier you get."
+        },
+        {
+            "id": 176,
+            "quote": "You can’t expect to succeed if you don’t put in the effort."
+        },
+        {
+            "id": 177,
+            "quote": "Keep learning, keep growing, keep achieving."
+        },
+        {
+            "id": 178,
+            "quote": "Success comes from preparation, dedication, and hard work."
+        },
+        {
+            "id": 179,
+            "quote": "Nothing is impossible, the word itself says 'I'm possible.'"
+        },
+        {
+            "id": 180,
+            "quote": "Success is the sum of small efforts, repeated day in and day out."
+        },
+        {
+            "id": 181,
+            "quote": "Work hard in silence, let your success be your noise."
+        },
+        {
+            "id": 182,
+            "quote": "Success is the ability to go from one failure to another with no loss of enthusiasm."
+        },
+        {
+            "id": 183,
+            "quote": "Your dreams are valid. Keep pushing forward."
+        },
+        {
+            "id": 184,
+            "quote": "Success comes to those who are willing to work for it."
+        },
+        {
+            "id": 185,
+            "quote": "Nothing can stop you except yourself."
+        },
+        {
+            "id": 186,
+            "quote": "Success is a journey, not a destination."
+        },
+        {
+            "id": 187,
+            "quote": "Don’t be afraid to fail. Be afraid of not trying."
+        },
+        {
+            "id": 188,
+            "quote": "You’re capable of more than you know."
+        },
+        {
+            "id": 189,
+            "quote": "The key to success is to start before you’re ready."
+        },
+        {
+            "id": 190,
+            "quote": "Your success will be determined by how badly you want it."
+        },
+        {
+            "id": 191,
+            "quote": "The best revenge is massive success."
+        },
+        {
+            "id": 192,
+            "quote": "Be stronger than your strongest excuse."
+        },
+        {
+            "id": 193,
+            "quote": "Success is the result of hard work, persistence, and learning from failure."
+        },
+        {
+            "id": 195,
+            "quote": "Opportunities don't happen, you create them."
+        },
+        {
+            "id": 196,
+            "quote": "Success comes to those who are willing to take risks."
+        },
+        {
+            "id": 197,
+            "quote": "Success is not for the chosen few, it's for those who choose to work for it."
+        },
+        {
+            "id": 198,
+            "quote": "Success is not how high you have climbed, but how you make a positive difference to the world."
+        },
+        {
+            "id": 199,
+            "quote": "The secret of success is to do the common things uncommonly well."
+        },
+        {
+            "id": 201,
+            "quote": "Your mindset shapes your reality."
+        },
+        {
+            "id": 202,
+            "quote": "Success starts with the decision to try."
+        },
+        {
+            "id": 203,
+            "quote": "Growth is found in the struggle."
+        },
+        {
+            "id": 204,
+            "quote": "Chase your dreams, not the crowd."
+        },
+        {
+            "id": 205,
+            "quote": "Be bold, be brave, be you."
+        },
+        {
+            "id": 206,
+            "quote": "Every challenge is a stepping stone to success."
+        },
+        {
+            "id": 207,
+            "quote": "Your future is created by what you do today."
+        },
+        {
+            "id": 208,
+            "quote": "Focus on the journey, not the destination."
+        },
+        {
+            "id": 209,
+            "quote": "You are stronger than your excuses."
+        },
+        {
+            "id": 210,
+            "quote": "Success is built on perseverance, not perfection."
+        },
+        {
+            "id": 211,
+            "quote": "Turn your dreams into goals and your goals into actions."
+        },
+        {
+            "id": 212,
+            "quote": "Success is a mindset, not a destination."
+        },
+        {
+            "id": 213,
+            "quote": "Every setback is a setup for a comeback."
+        },
+        {
+            "id": 214,
+            "quote": "Believe in your power to change your life."
+        },
+        {
+            "id": 215,
+            "quote": "Greatness begins with believing you are capable."
+        },
+        {
+            "id": 216,
+            "quote": "You’ve got this, keep pushing forward."
+        },
+        {
+            "id": 217,
+            "quote": "Success is the result of overcoming obstacles."
+        },
+        {
+            "id": 218,
+            "quote": "Failure is a lesson, not a defeat."
+        },
+        {
+            "id": 219,
+            "quote": "Take action, because tomorrow is never promised."
+        },
+        {
+            "id": 220,
+            "quote": "Your strength is in your persistence."
+        },
+        {
+            "id": 221,
+            "quote": "The road to success is always being paved, step by step."
+        },
+        {
+            "id": 222,
+            "quote": "Your dreams don’t work unless you do."
+        },
+        {
+            "id": 223,
+            "quote": "Strength is built through overcoming challenges."
+        },
+        {
+            "id": 224,
+            "quote": "Believe in your abilities, and greatness will follow."
+        },
+        {
+            "id": 225,
+            "quote": "Success is a habit, not an act."
+        },
+        {
+            "id": 226,
+            "quote": "Don’t stop when you’re tired; stop when you’re done."
+        },
+        {
+            "id": 228,
+            "quote": "Your greatest asset is your mindset."
+        },
+        {
+            "id": 229,
+            "quote": "The best way to predict the future is to create it."
+        },
+        {
+            "id": 230,
+            "quote": "Every small effort counts towards a big change."
+        },
+        {
+            "id": 231,
+            "quote": "Believe in yourself, and the world will follow."
+        },
+        {
+            "id": 233,
+            "quote": "Stay focused and keep moving forward."
+        },
+        {
+            "id": 234,
+            "quote": "Push past the discomfort to reach your potential."
+        },
+        {
+            "id": 235,
+            "quote": "You’re one decision away from a completely different life."
+        },
+        {
+            "id": 236,
+            "quote": "The best view comes after the hardest climb."
+        },
+        {
+            "id": 237,
+            "quote": "Success is the sum of all your small efforts."
+        },
+        {
+            "id": 238,
+            "quote": "Don’t wait for the perfect moment, take the moment and make it perfect."
+        },
+        {
+            "id": 239,
+            "quote": "Progress begins where comfort ends."
+        },
+        {
+            "id": 240,
+            "quote": "Life is tough, but so are you."
+        },
+        {
+            "id": 241,
+            "quote": "The hardest battles bring the greatest rewards."
+        },
+        {
+            "id": 242,
+            "quote": "Set your goals high, and don’t stop until you get there."
+        },
+        {
+            "id": 243,
+            "quote": "Every day is a new opportunity to make progress."
+        },
+        {
+            "id": 244,
+            "quote": "Your passion will drive your success."
+        },
+        {
+            "id": 246,
+            "quote": "The moment you stop trying is the moment you fail."
+        },
+        {
+            "id": 247,
+            "quote": "Keep your head high, and your heart even higher."
+        },
+        {
+            "id": 248,
+            "quote": "Success requires dedication, patience, and perseverance."
+        },
+        {
+            "id": 249,
+            "quote": "What you think you become, what you feel you attract."
+        },
+        {
+            "id": 251,
+            "quote": "The key to success is not to avoid failure but to learn from it."
+        },
+        {
+            "id": 252,
+            "quote": "You are capable of achieving great things."
+        },
+        {
+            "id": 253,
+            "quote": "Make your dreams your reality."
+        },
+        {
+            "id": 254,
+            "quote": "Be fearless in the face of adversity."
+        },
+        {
+            "id": 255,
+            "quote": "Success isn’t just about what you accomplish in life, but what you inspire others to do."
+        },
+        {
+            "id": 256,
+            "quote": "Focus on your goal, not the obstacle."
+        },
+        {
+            "id": 258,
+            "quote": "Success is not just about winning; it’s about the journey."
+        },
+        {
+            "id": 259,
+            "quote": "Keep going, you are closer than you think."
+        },
+        {
+            "id": 260,
+            "quote": "You are stronger than you think."
+        },
+        {
+            "id": 261,
+            "quote": "Success requires sacrifice, but the rewards are worth it."
+        },
+        {
+            "id": 262,
+            "quote": "Your success will be determined by your own belief and determination."
+        },
+        {
+            "id": 263,
+            "quote": "Stay humble, hustle hard."
+        },
+        {
+            "id": 264,
+            "quote": "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
+        },
+        {
+            "id": 265,
+            "quote": "Take the leap, and the net will appear."
+        },
+        {
+            "id": 266,
+            "quote": "Success isn’t for the chosen few; it’s for those who are willing to work for it."
+        },
+        {
+            "id": 267,
+            "quote": "No one ever achieved greatness without putting in the work."
+        },
+        {
+            "id": 268,
+            "quote": "Be a dreamer, but also a doer."
+        },
+        {
+            "id": 269,
+            "quote": "Keep pushing forward, no matter how difficult it gets."
+        },
+        {
+            "id": 270,
+            "quote": "Hard work and persistence will always pay off."
+        },
+        {
+            "id": 271,
+            "quote": "Let your actions speak louder than your words."
+        },
+        {
+            "id": 272,
+            "quote": "Success is not given; it’s earned through effort and sacrifice."
+        },
+        {
+            "id": 273,
+            "quote": "Chase your dreams, not people."
+        },
+        {
+            "id": 274,
+            "quote": "Keep pushing, even when you don’t feel like it."
+        },
+        {
+            "id": 275,
+            "quote": "Believe in your strength, and you will overcome any challenge."
+        },
+        {
+            "id": 276,
+            "quote": "The power to succeed is within you."
+        },
+        {
+            "id": 277,
+            "quote": "Success begins at the end of your comfort zone."
+        },
+        {
+            "id": 278,
+            "quote": "Your mindset determines your success."
+        },
+        {
+            "id": 279,
+            "quote": "Keep striving, keep thriving, never give up."
+        },
+        {
+            "id": 280,
+            "quote": "Success is the result of consistent effort, not luck."
+        },
+        {
+            "id": 281,
+            "quote": "Don’t wait for opportunities, create them."
+        },
+        {
+            "id": 282,
+            "quote": "Great things never come from comfort zones."
+        },
+        {
+            "id": 283,
+            "quote": "Success is achieved by those who keep pushing through obstacles."
+        },
+        {
+            "id": 284,
+            "quote": "Don’t let fear hold you back from greatness."
+        },
+        {
+            "id": 285,
+            "quote": "Success is not the key to happiness; happiness is the key to success."
+        },
+        {
+            "id": 286,
+            "quote": "The only limit to your success is the amount of effort you put in."
+        },
+        {
+            "id": 287,
+            "quote": "It’s your journey, make it count."
+        },
+        {
+            "id": 288,
+            "quote": "Success requires vision, action, and consistency."
+        },
+        {
+            "id": 289,
+            "quote": "Your future is in your hands; make it a great one."
+        },
+        {
+            "id": 290,
+            "quote": "Success is earned by those who never give up."
+        },
+        {
+            "id": 291,
+            "quote": "Believe in your abilities, and you’ll find your success."
+        },
+        {
+            "id": 292,
+            "quote": "The road to success is paved with hard work and persistence."
+        },
+        {
+            "id": 294,
+            "quote": "Failure is a detour, not a dead-end."
+        },
+        {
+            "id": 296,
+            "quote": "Stay positive, work hard, and make it happen."
+        },
+        {
+            "id": 297,
+            "quote": "Success begins when you decide to take action."
+        },
+        {
+            "id": 298,
+            "quote": "Success is found by those who keep pushing forward despite setbacks."
+        },
+        {
+            "id": 299,
+            "quote": "Success is not for the faint-hearted; it’s for the determined."
+        },
+        {
+            "id": 300,
+            "quote": "The biggest obstacle to success is the fear of failure."
+        }
+    ]
+}
