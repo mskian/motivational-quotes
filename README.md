@@ -6,6 +6,10 @@ Here are some short and single-line motivational quotes perfect for smartwatch n
 
 ![Watch Quotes](https://raw.githubusercontent.com/mskian/motivational-quotes/refs/heads/main/watch.png)  
 
+## Send Quotes Notifications to Watch
+
+I use `ntfy.sh` Self-hosted Push Notification service for Sending push notifications to my phone via PUT/POST and receive Notification Updates on My Smartwatch.  
+
 ## Usage
 
 - `index.php` : Quotes Site
