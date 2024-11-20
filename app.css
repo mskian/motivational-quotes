@@ -68,6 +68,7 @@ body {
   animation: fadeIn 1s ease-in-out forwards;
   word-wrap: break-word;
   margin: 10px 0;
+  padding-bottom: 70px;
 }
 
 .quote-text {
@@ -169,24 +170,25 @@ button#retry-button:hover {
 
 .copy-btn {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 5px;
+  right: 1px;
   padding: 5px 10px;
   background-color: transparent;
   border: none;
-  color: rgb(22, 18, 18);
+  color: rgb(206, 203, 36);
   cursor: pointer;
   font-family: "Roboto Mono", monospace;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   transition: transform 0.3s ease;
+  z-index: 10;
 }
 
 .copy-btn:hover {
   transform: scale(1.1);
 }
 
-
+/* Mobile Responsiveness */
 @media (max-width: 768px) {
   .quote-box {
     padding: 35px;
@@ -224,11 +226,12 @@ button#retry-button:hover {
     font-size: 0.8rem;
   }
 }
+
 @media (max-width: 768px) {
   .loading-state, .error-state {
     width: 90%;
     max-width: 400px;
-    padding: 20px;
+    padding: 8px;
   }
 
   .loading-state p {
@@ -242,9 +245,9 @@ button#retry-button:hover {
 
 @media (max-width: 480px) {
   .loading-state, .error-state {
-    width: 100%;
-    max-width: 350px;
-    padding: 20px;
+    width: 90%;
+    max-width: 400px;
+    padding: 8px;
   }
 
   .loading-state p {
@@ -254,5 +257,21 @@ button#retry-button:hover {
   .loading-state img {
     width: 50px;
   }
+}
+@media (max-width: 768px) {
+  .copy-btn {
+    top: 5px;
+    right: 1px;
+    padding: 6px 10px;
+    font-size: 1rem;
+  }
+}
 
+@media (max-width: 480px) {
+  .copy-btn {
+    top: 5px;
+    right: 1px;
+    padding: 5px 8px;
+    font-size: 1rem;
+  }
 }

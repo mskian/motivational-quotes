@@ -1,3 +1,12 @@
+<?php
+
+header('X-Frame-Options: DENY');
+header('X-XSS-Protection: 1; mode=block');
+header('X-Content-Type-Options: nosniff');
+header('Strict-Transport-Security: max-age=63072000');
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +20,7 @@
   <?php $current_page = htmlspecialchars("https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]", ENT_QUOTES, 'UTF-8');
         echo '<link rel="canonical" href="' . $current_page . '" />';
   ?>
+
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" sizes="196x196" href="/favicon-196.png" />
@@ -38,14 +48,15 @@
         <p>Oops! Something went wrong while loading the quotes. Please try again later.</p>
       </div>
 
-      <button id="copy-button" class="button is-danger is-small copy-btn">
-        <i class="fas fa-copy"></i>&nbsp;Copy
-      </button>
-
       <div id="quotes-container" class="quotes-container">
         <div class="quote-box">
+        <div id="copyquotes" class="hidden">
+        <button id="copy-button" class="is-small copy-btn">
+        <i class="fas fa-copy"></i>
+        </button>
+        </div>
           <div id="loading-state" class="loading-state hidden">
-            <p>🥤🚀</p>
+            <p>Wait 🥤</p>
           </div>
           <div id="quote-text" class="quote-text hidden"></div>
           <br />

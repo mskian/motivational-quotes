@@ -25,12 +25,14 @@ fetch('quotes.json')
     const prevButton = document.getElementById('prev-button');
     const nextButton = document.getElementById('next-button');
     const paginationButtons = document.getElementById('pagination-buttons');
+    const Copy_Quotes = document.getElementById('copyquotes');
 
     function showQuote(index) {
 
       toggleVisibility(loadingState, 'show');
       toggleVisibility(quoteTextElement, 'hide');
       toggleVisibility(quoteNumberElement, 'hide');
+      toggleVisibility(Copy_Quotes, 'hide');
 
       setTimeout(() => {
         const quote = quotes[index];
@@ -40,6 +42,7 @@ fetch('quotes.json')
         toggleVisibility(quoteTextElement, 'show');
         toggleVisibility(quoteNumberElement, 'show');
         toggleVisibility(paginationButtons, 'show');
+        toggleVisibility(Copy_Quotes, 'show');
         toggleVisibility(retryButton, 'hide');
       }, 800);
     }
@@ -71,7 +74,7 @@ fetch('quotes.json')
     const quoteText = document.getElementById('quote-text').textContent;
   
     navigator.clipboard.writeText(quoteText).then(() => {
-      showAlert("📋✅ copied");
+      showAlert("📋✅ Copied");
     }).catch(err => {
       console.error('Failed to copy text: ', err);
       showAlert("❌ Failed to copy.");
